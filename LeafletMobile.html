@@ -1,0 +1,82 @@
+<!-- This is an HTML document with the language set to English -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Set the character encoding and the compatibility mode -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Set the viewport to scale the content to the width of the device and set the initial zoom level -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- Set the title of the page -->
+    <title>LeafLet Tutorial1</title>
+    <!-- Load the Leaflet CSS file from a content delivery network (CDN) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+        crossorigin="" />
+    <!-- Define a style for the map container -->
+    <style>
+        /* Set the height and width of the map container */
+        /* #map {
+            height: 800px;
+            width: 800px
+        } */
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        html, body, #map {
+            height: 100%;
+            width: 100vw;
+}
+    </style>
+    <!-- Load the Leaflet JavaScript file from a CDN -->
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+        crossorigin="">
+    </script>
+</head>
+<body>
+    <!-- Add some content to the page -->
+    <h1>Leaflet Mobile Location Test</h1>
+    <p>Page created following Leaflet Tutorial</p>
+    <p>Comment lines in code added with ChatGPT</p>
+    <!-- Add a container for the map -->
+    <div id="map"></div>
+    <script>
+        // Create a Leaflet map and set the view to a specific location
+        var map = L.map('map').fitWorld();
+    
+    // Add a tile layer from OpenStreetMap to the map
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        // Use geolocation to find user's location
+        map.locate({setView: true, maxZoom: 16});
+
+        // Define a function to execute when the user's location is found
+        function onLocationFound(e) {
+            var radius = e.accuracy;
+
+            // Add a marker to the user's location and a popup displaying the accuracy of the location
+            L.marker(e.latlng).addTo(map)
+                .bindPopup("You are within " + radius + " meters from this point").openPopup();
+
+            // Add a circle to the user's location with a radius based on the accuracy of the location
+            L.circle(e.latlng, radius).addTo(map);
+        }
+
+        // Execute the onLocationFound function when the user's location is found
+        map.on('locationfound', onLocationFound);
+
+        // Define a function to execute when geolocation encounters an error
+        function onLocationError(e) {
+                alert(e.message);
+            }
+
+        // Execute the onLocationError function when geolocation encounters an error
+        map.on('locationerror', onLocationError);
+
+</script>
+</body>
