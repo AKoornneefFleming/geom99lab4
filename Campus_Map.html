@@ -37,8 +37,7 @@
         height: 400px;
         width: 95%;
         margin-top: 20px;
-        /* margin:0 auto trick learned from ChatGPT when problem solving */
-        margin: 0 auto; 
+        margin: 0 auto;            /* margin:0 auto learned through a ChatGPT query  */
         margin-top: 50px;
     }
 
@@ -125,6 +124,9 @@
 
     AKmap.add(campus_floor1);
 
+
+    // https://developers.arcgis.com/javascript/latest/display-your-location/
+    
     const track = new Track({
         view: view,
         graphic: new Graphic({
@@ -145,6 +147,9 @@
 
     });
   </script>
+
+
+     
 
 </head>
 <body>
