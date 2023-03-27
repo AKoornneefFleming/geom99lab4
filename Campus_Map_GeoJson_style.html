@@ -1,0 +1,207 @@
+<html>
+<head>
+  <meta name="description" content="A Map of Canada">
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>Proof of Concept Campus Map Webpage</title>
+  <style>
+    
+    body{
+    background-image: url("campus.jpg");
+        background-size: cover;
+      }
+
+    h1 {
+        color: red;
+        text-align: center;
+    }
+
+    h2 {
+        color: red;
+        text-align: center;
+    }
+
+    h3 {
+        color: red;
+        text-align: center;
+        font-size: 11pt;
+    }
+
+    .p1 {
+        color: white;
+        text-align: justify;
+    }
+
+
+    #viewDiv {
+        height: 400px;
+        width: 95%;
+        margin-top: 20px;
+        margin: 0 auto;            /* margin:0 auto learned through a ChatGPT query  */
+        margin-top: 50px;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+
+    .box {
+        width: 80%;
+        max-width: 900px;
+        background-color: rgb(51, 48, 48);
+        border-radius: 15px;
+        border: 1.5mm ridge rgba(29, 28, 27, 0.6);
+        padding: 20px;
+    }
+
+
+  </style>
+  <link rel="stylesheet" href="https://js.arcgis.com/4.26/esri/themes/light/main.css">  
+  <script src="https://js.arcgis.com/4.26/">
+    
+  </script>
+  
+</head>
+
+ <script>
+
+  require([
+      "esri/config",
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/Graphic",
+      "esri/layers/GraphicsLayer",
+      "esri/layers/FeatureLayer",
+      "esri/widgets/Locate",
+      "esri/widgets/Track",
+      "esri/layers/GeoJSONLayer",
+      "esri/symbols"
+    ],
+
+    function(esriConfig, Map, MapView, Graphic, GraphicsLayer, FeatureLayer, Locate, Track, GeoJSONLayer, SimpleLineSymbol){
+
+     // API Key -- Get this from AGOL Developer Dashboard -- Make sure the Referal is on
+     esriConfig.apiKey = "AAPKa430fba2d1434432b9b367da7f167db2-jXPRVY5czz22AlTa3-V2I7UFLvoQzKj0yxBmhnhdprLbrAg345Cbvffj5RD6D2X";
+
+     // Create a new map
+    const AKmap = new Map({
+    basemap: "arcgis-topographic", //Basemap layer service
+    });
+
+      // Create a new map view
+    const view = new MapView({
+    container: "viewDiv",
+    map: AKmap,
+    center: [-78.74099396179608, 44.340985204149156], //Longitude, latitude
+    zoom: 18
+    });
+       
+
+       // line symbology to be applied to the GeoJSON
+       const lineSymbol = {
+        type: "simple-line",
+        color: "blue", // Red
+        width: 1
+        }; 
+
+        // https://developers.arcgis.com/javascript/latest/sample-code/layers-geojson/
+    const geojsonlayer = new GeoJSONLayer({
+        url: "https://akoornneeffleming.github.io/geom99lab4/FloorPlan_Walls.geojson",
+        renderer: {
+            type: "simple",
+            symbol: lineSymbol
+        }
+    });
+    AKmap.add(geojsonlayer);  // adds the layer to the map
+    });
+
+ 
+
+
+    // Define the label class
+    // First time use, got from: https://developers.arcgis.com/javascript/latest/sample-code/labels-basic/
+    // const labelClass = {
+    //     // autocasts as new LabelClass()
+    //     symbol: {
+    //         type: "text",  // autocasts as new TextSymbol()
+    //         color: "white",
+    //         font: {  // autocast as new Font()
+    //             family: "Calibri",
+    //             size: 8,
+    //             weight: "bold"
+    //         }
+    //     },
+    //     labelPlacement: "above-center",
+    //     labelExpressionInfo: {
+    //         expression: "$feature.LONGNAME"
+    //     }
+    //     };
+
+    // // Bring in the AGOL layer - make sure this is set to public 
+    // const campus_floor1 = new FeatureLayer({
+    //     url: "https://services1.arcgis.com/pMeXRvgWClLJZr3s/arcgis/rest/services/Test_Campus/FeatureServer",
+    //     labelingInfo: labelClass 
+    // });
+
+    // AKmap.add(campus_floor1);
+
+
+    // // https://developers.arcgis.com/javascript/latest/display-your-location/
+    
+    const track = new Track({
+        view: view,
+        graphic: new Graphic({
+            symbol: {
+            type: "simple-marker",
+            size: "12px",
+            color: "green",
+            outline: {
+                color: "#efefef",
+                width: "1.5px"
+            }
+            }
+        }),
+        useHeadingEnabled: false
+        });
+        view.ui.add(track, "top-left");
+
+
+    // });
+  </script>
+
+
+     
+
+</head>
+<body>
+    <div class = "container">
+        <div class = "box">
+            <h1>Your Campus Site</h1>
+            <h2>Your page site content here:</h2>
+            <p class = "p1">This is content created with Bob Ross Ipsum. I'm gonna add just a tiny little amount of Prussian Blue. And just raise cain. You can do anything your heart can imagine. That's what painting is all about. It should make you feel good when you paint. Use what happens naturally, don't fight it.
+
+                We'll do another happy little painting. You have to make those little noises or it won't work. Let's have a little bit of fun today. You can do anything here. So don't worry about it. Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things
+                
+                If we're gonna walk though the woods, we need a little path. And I will hypnotize that just a little bit. Poor old tree. It's so important to do something every day that will make you happy. Life is too short to be alone, too precious. Share it with a friend.
+                
+                You can't have light without dark. You can't know happiness unless you've known sorrow. I'll go over the colors one more time that we use: Titanium white, Thalo green, Prussian blue, Van Dyke brown, Alizarin crimson, Sap green, Cad yellow, and Permanent red. You can work and carry-on and put lots of little happy things in here. Work that paint.
+                
+                This painting comes right out of your heart. There are no limits in this world. It looks so good, I might as well not stop. As trees get older they lose their chlorophyll.
+                
+                In your world you have total and absolute power. The more we do this - the more it will do good things to our heart. A fan brush can be your best friend.
+                
+                In this world, everything can be happy. How to paint. That's easy. What to paint. That's much harder. Every single thing in the world has its own personality - and it is up to you to make friends with the little rascals. At home you have unlimited time. See there how easy that is. We can fix anything. 
+            </p>
+            <h3>Turn on location to see where you are in relation to the campus</h3>
+            <div id="viewDiv"></div>  
+        </div>
+    </div>
+    
+   
+</body>
+</html>
+
+<!-- photo taken from:  https://brookmcilroy.com/wp-content/uploads/2018/12/BM_Fleming_College_Frost_Campus_Master_Plan_1.jpg -->
