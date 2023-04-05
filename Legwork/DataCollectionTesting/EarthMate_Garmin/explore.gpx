@@ -1,0 +1,1659 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="43.662361" lon="-79.423463">
+    <ele>0</ele>
+    <time>2023-03-29T00:06:31.1942411Z</time>
+    <name>Waypoint</name>
+    <desc />
+  </wpt>
+  <wpt lat="43.662411" lon="-79.423274">
+    <ele>0</ele>
+    <time>2023-03-29T00:08:19.8226417Z</time>
+    <name>Waypoint 2</name>
+    <desc />
+  </wpt>
+  <wpt lat="43.662411" lon="-79.423274">
+    <ele>0</ele>
+    <time>2023-03-29T00:08:20.9270668Z</time>
+    <name>Waypoint 4</name>
+    <desc />
+  </wpt>
+  <wpt lat="43.662596" lon="-79.422886">
+    <ele>0</ele>
+    <time>2023-03-29T00:08:23.0314589Z</time>
+    <name>Waypoint 5</name>
+    <desc />
+  </wpt>
+  <wpt lat="43.662411" lon="-79.423274">
+    <ele>0</ele>
+    <time>2023-03-29T00:08:31.7312799Z</time>
+    <name>Waypoint 3</name>
+    <desc />
+  </wpt>
+  <trk>
+    <name>Temagami Route 1.kmz</name>
+    <desc>Temagami Route 1.kmz</desc>
+    <trkseg>
+      <trkpt lat="47.461462" lon="-79.991207">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383233" lon="-79.945738">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392193" lon="-79.984765">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383603" lon="-79.996910">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.375674" lon="-80.010690">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.355252" lon="-80.086467">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.346456" lon="-80.098531">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.353490" lon="-80.124699">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.335201" lon="-80.146014">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392170" lon="-80.083499">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.460446" lon="-79.994264">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.461961" lon="-79.990808">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382713" lon="-79.945523">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392515" lon="-79.981335">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384469" lon="-79.995894">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.375709" lon="-80.009951">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.355655" lon="-80.086211">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.346581" lon="-80.097915">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.353761" lon="-80.124200">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.336016" lon="-80.144799">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392712" lon="-80.102458">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.459795" lon="-79.997116">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.462098" lon="-79.988712">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382422" lon="-79.945768">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393409" lon="-79.978982">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385415" lon="-79.994180">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.375897" lon="-80.008342">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.357417" lon="-80.084802">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.347021" lon="-80.095782">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.353860" lon="-80.123252">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.340966" lon="-80.140278">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.390407" lon="-80.121417">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.456986" lon="-80.002065">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.463618" lon="-79.984964">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.381757" lon="-79.945983">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393472" lon="-79.976154">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.386433" lon="-79.993837">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.376281" lon="-80.006668">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.359672" lon="-80.082809">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.354428" lon="-80.122475">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.344951" lon="-80.134712">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389142" lon="-80.136036">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.452075" lon="-80.004372">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.469242" lon="-79.983015">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.381175" lon="-79.945707">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393841" lon="-79.971797">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387299" lon="-79.994101">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.377772" lon="-80.001894">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.360405" lon="-80.078349">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.355268" lon="-80.121916">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.346862" lon="-80.132573">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384516" lon="-80.144409">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.448146" lon="-80.007234">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.471168" lon="-79.979042">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.380842" lon="-79.944325">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393802" lon="-79.968621">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.378102" lon="-79.997622">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.361813" lon="-80.076441">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.355811" lon="-80.120725">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.350732" lon="-80.128113">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382491" lon="-80.149034">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.444217" lon="-80.008943">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.380023" lon="-79.943963">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393551" lon="-79.963892">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.379638" lon="-79.996804">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.362883" lon="-80.074363">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.356742" lon="-80.120312">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.352889" lon="-80.125258">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.379996" lon="-80.156695">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.439073" lon="-80.011763">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.377197" lon="-79.939837">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392586" lon="-79.958689">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383299" lon="-79.997028">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.363772" lon="-80.067764">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.357927" lon="-80.121733">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.379003" lon="-80.159114">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.434709" lon="-80.012660">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.377457" lon="-79.937631">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8364993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.391079" lon="-79.956869">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8364993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.364916" lon="-80.063377">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8364993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.360422" lon="-80.124942">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8364993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.376075" lon="-80.165610">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8364993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.427079" lon="-80.014070">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8364993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.378497" lon="-79.937726">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8374993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.390130" lon="-79.955189">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8374993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.365418" lon="-80.062246">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8374993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.361451" lon="-80.124212">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8374993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.372586" lon="-80.171748">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8374993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.413682" lon="-80.015960">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8374993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.379179" lon="-79.936959">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8384993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.390161" lon="-79.953195">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8384993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.365558" lon="-80.056292">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8384993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.362504" lon="-80.123094">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8384993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.370493" lon="-80.175152">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8384993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.409297" lon="-80.015851">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8384993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.380056" lon="-79.936287">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8394993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389369" lon="-79.951434">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8394993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.365540" lon="-80.056285">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8394993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.362875" lon="-80.119303">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8394993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.367792" lon="-80.178143">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8394993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.407187" lon="-80.018038">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8394993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.381160" lon="-79.934896">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8404993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388788" lon="-79.950785">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8404993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.362847" lon="-80.046346">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8404993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.364430" lon="-80.118112">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8404993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.365577" lon="-80.181503">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8404993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.406003" lon="-80.017929">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8404993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382427" lon="-79.931970">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8414993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388725" lon="-79.950286">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8414993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.362787" lon="-80.037682">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8414993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.364433" lon="-80.118108">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8414993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.365594" lon="-80.181505">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8414993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.406062" lon="-80.017872">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8414993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382654" lon="-79.931010">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8424993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388882" lon="-79.950112">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8424993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.366967" lon="-80.031511">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8424993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.364760" lon="-80.115082">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8424993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.361745" lon="-80.189495">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8424993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.404443" lon="-80.019282">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8424993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382492" lon="-79.930291">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8434993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388788" lon="-79.949846">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8434993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.369036" lon="-80.028514">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8434993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.363459" lon="-80.111341">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8434993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.356188" lon="-80.192528">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8434993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.401985" lon="-80.027955">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8434993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382291" lon="-79.928449">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8444993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388341" lon="-79.949753">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8444993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.373839" lon="-80.025162">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8444993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.359729" lon="-80.109988">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8444993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.346954" lon="-80.184881">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8444993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.402100" lon="-80.034834">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8444993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382504" lon="-79.928135">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8454993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388207" lon="-79.949336">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8454993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.374783" lon="-80.019940">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8454993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.357305" lon="-80.109459">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8454993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.334650" lon="-80.181847">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8454993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.400654" lon="-80.042994">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8454993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382836" lon="-79.928173">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8464993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387635" lon="-79.949058">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8464993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.355535" lon="-80.107934">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8464993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.326412" lon="-80.177403">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8464993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.395969" lon="-80.053932">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8464993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.382939" lon="-79.928273">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8474993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387446" lon="-79.948501">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8474993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.354165" lon="-80.107055">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8474993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.322222" lon="-80.168444">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8474993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.395916" lon="-80.053940">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8474993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383117" lon="-79.928273">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8484993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387070" lon="-79.948258">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8484993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.352700" lon="-80.105088">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8484993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.321675" lon="-80.164221">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8484993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.396342" lon="-80.057522">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8484993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383398" lon="-79.927959">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8494993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.386921" lon="-79.947609">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8494993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.349401" lon="-80.101619">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8494993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.321667" lon="-80.164255">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8494993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.395231" lon="-80.060311">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8494993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383696" lon="-79.927028">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8504993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.386026" lon="-79.947470">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8504993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.349307" lon="-80.101347">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8504993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.322518" lon="-80.163874">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8504993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.394102" lon="-80.064549">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8504993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383645" lon="-79.926488">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8514993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385751" lon="-79.946948">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8514993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.323641" lon="-80.163292">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8514993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393973" lon="-80.067120">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8514993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383696" lon="-79.926337">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8524993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385445" lon="-79.946925">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8524993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.324788" lon="-80.162922">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8524993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.393473" lon="-80.070401">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8524993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.383679" lon="-79.925507">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8534993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384951" lon="-79.946462">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8534993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.325494" lon="-80.162944">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8534993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392214" lon="-80.083662">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8534993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384318" lon="-79.925569">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8544993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384096" lon="-79.946369">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8544993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.326564" lon="-80.162138">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8544993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384676" lon="-79.925834">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8554993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.327316" lon="-80.161746">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8554993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.384871" lon="-79.926601">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8564993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.328454" lon="-80.160850">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8564993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385186" lon="-79.926513">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8574993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.328750" lon="-80.159417">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8574993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385450" lon="-79.926689">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8584993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.328788" lon="-80.158554">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8584993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385638" lon="-79.926387">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8594993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.329039" lon="-80.157972">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8594993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.385995" lon="-79.926274">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8604993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.329213" lon="-80.155508">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8604993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.386132" lon="-79.926010">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8614993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.386591" lon="-79.926148">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8624993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387077" lon="-79.925758">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8634993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387145" lon="-79.925129">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8644993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387111" lon="-79.924375">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8654993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387460" lon="-79.923407">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8664993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387511" lon="-79.922866">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8674993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387264" lon="-79.922174">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8684993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387298" lon="-79.921533">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8694993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387017" lon="-79.920690">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8704993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387434" lon="-79.919760">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8714993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387579" lon="-79.919156">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8724993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.387783" lon="-79.918049">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8734993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388107" lon="-79.917735">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8744993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388669" lon="-79.917936">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8754993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388979" lon="-79.917349">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8764993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389174" lon="-79.916215">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8774993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389537" lon="-79.915808">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8784993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389596" lon="-79.915494">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8794993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389589" lon="-79.915036">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8804993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389624" lon="-79.914691">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8814993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.390350" lon="-79.914366">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8824993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.390882" lon="-79.913900">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8834993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.391028" lon="-79.913194">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8844993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392150" lon="-79.912764">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8854993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.392088" lon="-79.911720">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8864993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.391526" lon="-79.909417">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8874993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.390757" lon="-79.908742">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8884993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389282" lon="-79.907759">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8894993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.388762" lon="-79.906716">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8904993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389801" lon="-79.904566">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8914993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.389770" lon="-79.904557">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8924993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.391619" lon="-79.904517">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8934993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.395662" lon="-79.904871">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8944993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.398429" lon="-79.904223">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8954993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.399706" lon="-79.907052">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8964993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.400624" lon="-79.909547">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8974993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.406156" lon="-79.913674">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8984993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.406941" lon="-79.917073">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.8994993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.407991" lon="-79.919903">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9004993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.408856" lon="-79.920885">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9014993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.410491" lon="-79.921514">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9024993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.412499" lon="-79.921887">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9034993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.413297" lon="-79.922555">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9044993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.413616" lon="-79.924284">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9054993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.413084" lon="-79.926721">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9064993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.413948" lon="-79.928666">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9074993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.416049" lon="-79.929295">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9084993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.419466" lon="-79.928647">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9094993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.422298" lon="-79.930847">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9104993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.425914" lon="-79.931771">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9114993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.426738" lon="-79.934365">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9124993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.426526" lon="-79.936487">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9134993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.426047" lon="-79.939296">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9144993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.426459" lon="-79.943757">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9154993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.428573" lon="-79.944484">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9164993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.431564" lon="-79.944523">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9174993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.432640" lon="-79.945781">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9184993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.434049" lon="-79.949514">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9194993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.435352" lon="-79.955586">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9204993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.435591" lon="-79.958337">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9214993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.436442" lon="-79.959928">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9224993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.437664" lon="-79.960243">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9234993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.440548" lon="-79.959575">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9244993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.443485" lon="-79.959476">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9254993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.446170" lon="-79.960066">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9264993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.448017" lon="-79.960419">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9274993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.449239" lon="-79.963210">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9284993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.449757" lon="-79.966688">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9294993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.450754" lon="-79.968063">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9304993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.454155" lon="-79.968554">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9314993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.458261" lon="-79.970657">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9324993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.461197" lon="-79.976060">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9334993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.462565" lon="-79.980521">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9344993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+      <trkpt lat="47.463694" lon="-79.984961">
+        <ele>0</ele>
+        <time>2022-08-29T00:06:47.9354993Z</time>
+        <desc>Temagami Route 1.kmz</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Temagami Route 1 Alt</name>
+    <desc>Temagami Route 1 Alt</desc>
+    <trkseg>
+      <trkpt lat="47.384147" lon="-79.870211">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.392160" lon="-80.083521">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.395936" lon="-80.053935">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.340195" lon="-80.125170">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.346909" lon="-80.132512">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.327156" lon="-80.145529">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.327608" lon="-80.135435">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.339534" lon="-80.125008">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2044963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.389115" lon="-79.882676">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.383121" lon="-80.084916">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.384510" lon="-80.055384">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.339513" lon="-80.125035">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.345396" lon="-80.130598">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.328090" lon="-80.148922">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.327244" lon="-80.136782">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.338910" lon="-80.124866">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2054963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.388138" lon="-79.887680">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.379846" lon="-80.085242">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.372493" lon="-80.059368">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.340330" lon="-80.120677">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.344306" lon="-80.128810">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.328659" lon="-80.150770">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.326340" lon="-80.140524">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.337901" lon="-80.127054">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2064963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.384792" lon="-79.891825">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.377013" lon="-80.085035">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.365575" lon="-80.057919">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.340173" lon="-80.111544">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.343114" lon="-80.128180">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.329183" lon="-80.151140">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.326291" lon="-80.143133">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.336082" lon="-80.128998">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2074963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.384979" lon="-79.893514">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2084963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.374522" lon="-80.085569">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2084963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.339631" lon="-80.103314">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2084963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.326685" lon="-80.143835">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2084963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.334332" lon="-80.131944">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2084963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.388076" lon="-79.900913">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2094963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.371628" lon="-80.083610">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2094963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.340321" lon="-80.102140">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2094963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.333763" lon="-80.132005">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2094963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.389780" lon="-79.904505">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2104963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.367971" lon="-80.081534">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2104963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.343309" lon="-80.099760">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2104963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.333111" lon="-80.131701">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2104963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.364294" lon="-80.081919">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2114963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.344753" lon="-80.099052">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2114963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.332068" lon="-80.132198">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2114963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.359712" lon="-80.082839">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2124963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.346746" lon="-80.097209">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2124963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.331004" lon="-80.134172">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2124963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.331134" lon="-80.135215">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2134963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.330510" lon="-80.135873">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2144963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+      <trkpt lat="47.329988" lon="-80.135833">
+        <ele>0</ele>
+        <time>2022-08-29T00:07:09.2154963Z</time>
+        <desc>Temagami Route 1 Alt</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Yumi Hotta (18868369)</name>
+    <desc>Yumi Hotta (18868369)</desc>
+    <trkseg>
+      <trkpt lat="43.66278" lon="-79.422891">
+        <ele>136.73</ele>
+        <time>2023-03-29T00:07:00Z</time>
+        <desc />
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="43.663433" lon="-79.4245">
+        <ele>116.30</ele>
+        <time>2023-03-29T00:08:45Z</time>
+        <desc />
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="43.663326" lon="-79.424458">
+        <ele>120.38</ele>
+        <time>2023-03-29T00:09:15Z</time>
+        <desc>Here</desc>
+        <fix>none</fix>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
