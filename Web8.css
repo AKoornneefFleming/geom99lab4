@@ -3,8 +3,12 @@
 /*w3schools was used as a starting point for all basic functionality of the website.*/
 
 body{
-    background-image: url("campus.jpg");
-        background-size: cover;
+    background-image: url("NasaHudson.jpg");
+    background-size: 1750px 1500px;
+    background-color: rgb(20, 19, 29);
+    background-position: 50% 45%;
+    background-repeat: no-repeat;
+    border-radius: 50%
       }
 
 .h1_header {
@@ -38,7 +42,7 @@ body{
 
 h1 {
     font-size: 48px; 
-    color: rgb(147, 32, 32);
+    color:  rgb(31, 83, 22);
     text-align: center;
     font-weight: 900;
     font-family: 'Avenir Next LT Pro', sans-serif;
@@ -104,7 +108,7 @@ div.profile_photos {
 
 
  #navbar {
-	background-color: rgb(147, 32, 32); 
+	background-color: rgb(17, 46, 12); 
 	overflow: hidden;  
 	border: 1px solid black; 
 	position: fixed;
