@@ -86,26 +86,25 @@
      // API Key -- Get this from AGOL Developer Dashboard -- Make sure the Referal is on
      esriConfig.apiKey = "AAPKa430fba2d1434432b9b367da7f167db2-jXPRVY5czz22AlTa3-V2I7UFLvoQzKj0yxBmhnhdprLbrAg345Cbvffj5RD6D2X";
 
-     // Create a new map
+    // Create a new map
     const AKmap = new Map({
-    basemap: "arcgis-topographic", //Basemap layer service
+    basemap: "arcgis-topographic", 
     });
 
-      // Create a new map view
+    // Create a new map view
     const view = new MapView({
     container: "viewDiv",
     map: AKmap,
-    center: [-78.74099396179608, 44.340985204149156], //Longitude, latitude
+    center: [-78.74099396179608, 44.340985204149156], 
     zoom: 18
     });
        
-
-       // line symbology to be applied to the GeoJSON
-       const lineSymbol = {
-        type: "simple-line",
-        color: "blue", // Red
-        width: 1
-        }; 
+    // line symbology to be applied to the GeoJSON
+    const lineSymbol = {
+    type: "simple-line",
+    color: "blue", // Red
+    width: 1
+    }; 
 
         // https://developers.arcgis.com/javascript/latest/sample-code/layers-geojson/
     const geojsonlayer = new GeoJSONLayer({
