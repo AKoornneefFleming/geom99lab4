@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<!-- This is an HTML document with the language set to English -->
+<!-- LEAFLET TUTORIAL: https://leafletjs.com/examples/quick-start/ -->
+<!-- Comment lines generated with ChatGPT -->
+
+
+<html lang="en">
+<head>
+    <!-- Set the character encoding and the compatibility mode -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Set the viewport to scale the content to the width of the device and set the initial zoom level -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- Set the title of the page -->
+    <title>LeafLet RealEstate Test</title>
+    <!-- Load the Leaflet CSS file from a content delivery network (CDN) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+        crossorigin="" />
+    <!-- Define a style for the map container -->
+    <style>
+        /* Set the height and width of the map container */
+        /* #map {
+            height: 800px;
+            width: 800px
+        } */
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        html, body, #map {
+            height: 100%;
+            width: 100vw;
+}
+    </style>
+    <!-- Load the Leaflet JavaScript file from a CDN -->
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+        crossorigin="">
+    </script>
+</head>
+<body>
+    <!-- Add some content to the page -->
+    <h1>Leaflet Real Estate Test</h1>
+    <p>Page created using Leaflet Tutorial, Mapbox Imagery and ChatGPT</p>
+    <p>Comment lines in code added with ChatGPT</p>
+    <!-- Add a container for the map -->
+    <div id="map"></div>
+    <script>
+        // Create a Leaflet map and set the view to a specific location
+        var map = L.map('map').setView([44.34118, -78.74091], 19);
+    
+        // add a tile layer from Mapbox Satellite Streets to the map
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            maxZoom: 18, // set the maximum zoom level
+            attribution: 'Map data &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
+            id: 'mapbox/satellite-streets-v11', // set the tile layer id
+            tileSize: 512,
+            zoomOffset: -1, // offset zoom level to match Mapbox zoom levels
+            accessToken: 'pk.eyJ1IjoiYWtvb3JubmUtbWFwcyIsImEiOiJjbGdoNmR2ZmcwMGs4M2Rtdm1sZzIyenR1In0.fG46xAKcTWtZHhr_wE_oLw' // replace with your own Mapbox access token
+        }).addTo(map);
+    
+</script>
+</body>
